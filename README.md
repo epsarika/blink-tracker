@@ -46,15 +46,18 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="907" height="756" alt="Screenshot 2025-08-09 052443" src="https://github.com/user-attachments/assets/c710280b-49b5-44d7-ac75-860fcdc20297" />
+Landing page
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](Add screenshot 2 here with proper n<img width="911" height="754" alt="Screenshot 2025-08-09 054255" src="https://github.com/user-attachments/assets/1bd7721c-e7ed-48d6-8442-d1829e4384a5" />
+app tracking your blinks
 
+![Screenshot3](Add screenshot 3 here with pro![Uploading Screenshot 2025-08-09 054255.png…]()
+per name)
 
+<img width="907" height="754" alt="Screenshot 2025-08-09 054336" src="https://github.com/user-attachments/assets/36007f30-128f-4466-a131-a4f7ee43b247" />
+final leaderboard
 
 ### Project Demo
 # Video
@@ -62,7 +65,8 @@ For Software:
 *Explain what the video demonstrates*
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
+Made with ❤️ at TinkerHub Useles-[Uploading 2025-08-09 07-08-07.mkv…]()
+s Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
